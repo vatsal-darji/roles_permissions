@@ -184,8 +184,7 @@ ISC
 
 ## Author
 
-[Your Name]
+Vatsal Darji
 
 ---
 
-For more detailed information about specific components, please refer to the source code documentation.
